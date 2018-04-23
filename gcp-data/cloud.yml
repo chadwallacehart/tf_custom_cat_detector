@@ -1,0 +1,12 @@
+trainingInput:
+  pythonVersion: "3.5"
+  runtimeVersion: "1.6"
+  scaleTier: CUSTOM
+  masterType: standard_gpu
+  workerCount: 5
+  workerType: standard_gpu
+  parameterServerCount: 3
+  parameterServerType: standard
+
+
+
